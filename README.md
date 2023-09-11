@@ -51,7 +51,7 @@ npm install
 Now open [http://localhost:3000].
 
 
-### If something goes wrong then email me on "Praveenkumarchauhan2022@gmail.com"
+### If something goes wrong then email me on "shashankpatil399@gmail.com"
 
 ##     FAQ
 
